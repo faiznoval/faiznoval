@@ -39,9 +39,9 @@ Fokus saya: membuat antarmuka rapi & performa baik di front-end, dan juga memaha
 ## ✨ Statistik & Highlights
 (opsional — ganti `YOUR_USERNAME` dengan username-mu untuk menampilkan)
 - GitHub streak / contributions:  
-  `![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&title_color=0078D7&icon_color=0078D7)`
+  `![GitHub stats](https://github-readme-stats.vercel.app/api?username=faiznoval&show_icons=true&theme=vue&title_color=0078D7&icon_color=0078D7)`
 - GitHub top langs:  
-  `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=0078D7)`
+  `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiznovalE&layout=compact&title_color=0078D7)`
 
 ## 📫 Let's connect
 - GitHub: `https://github.com/YOUR_USERNAME`  
