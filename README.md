@@ -58,7 +58,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiznoval&layout=compact&theme=react" alt="top-langs" />
      <!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub kamu -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=faiznoval&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+<img src= "https://streak-stats.demolab.com?user=faiznoval&theme=blueberry&hide_border=true">(https://git.io/streak-stats)
 
 </p>
 
