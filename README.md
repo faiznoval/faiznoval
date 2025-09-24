@@ -16,7 +16,6 @@
   <!-- Role badges (blue theme) -->
   <img src="https://img.shields.io/badge/Frontend-Developer-007acc?style=for-the-badge&logo=react&logoColor=white" alt="frontend"/>
   <img src="https://img.shields.io/badge/Backend-Developer-0057b7?style=for-the-badge&logo=node.js&logoColor=white" alt="backend"/>
-  <img src="https://img.shields.io/badge/Currently-Learning-Fullstack-1E90FF?style=for-the-badge" alt="learning"/>
 </p>
 
 ---
