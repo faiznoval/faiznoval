@@ -54,7 +54,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faiznoval&show_icons=true&theme=react" alt="github-stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiznoval&layout=compact&theme=react" alt="top-langs" />
    <br/>
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=blueberry&hide_border=true" alt="GitHub Streak" />
