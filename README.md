@@ -54,7 +54,7 @@
 ## 📈 GitHub Stats (opsional)
 Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub-mu untuk menampilkan statistik.
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faiznoval&show_icons=true&theme=react" alt="github-stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiznoval&layout=compact&theme=react" alt="top-langs" />
@@ -65,19 +65,7 @@ Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub-mu untuk menampilkan statist
 ---
 
 ## 📫 Contact
-- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`  
-- (opsional) Tambahkan email atau LinkedIn jika ingin memudahkan orang mengontakmu.
+- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`
+- Email : `faiznovalfajri2@gmail.com`
 
 ---
-
-## ✨ Tips customisasi cepat
-1. **Ganti `YOUR_GITHUB_USERNAME`** di gambar statistik dengan username GitHub-mu.  
-2. Ingin warna lain? Ubah parameter `color`/`logoColor` pada URL `img.shields.io` (mis. gunakan `007acc` untuk biru).  
-3. Untuk menampilkan project lebih rapi, buat section `Projects` berupa kartu kecil (gunakan badge + deskripsi + link).  
-4. Jika mau, tambahkan GIF/animasi ringan di atas untuk kesan dinamis — tapi jangan berlebihan.
-
----
-
-Thanks for stopping by — kalau mau, aku bisa:
-- Sesuaikan README ini dengan username GitHub dan tautan projectmu.
-- Bikin versi singkat (1 kolom) atau versi lengkap (2 kolom + kartu project).
