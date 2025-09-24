@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Hi%20there-👋-blue?style=for-the-badge&logo=github" alt="hi"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Andi</h1>
+<h1 align="center">Hi 👋, I'm Faiz Noval Fajri </h1>
 <p align="center">
   <em>Frontend & Backend Developer — building clean, responsive, and fast web experiences.</em>
 </p>
@@ -22,7 +22,7 @@
 ---
 
 ## 👨‍💻 About Me
-- **Nama:** Andi  
+- **Nama:** Faiz Noval Fajri 
 - **Minat:** Front end developer, Back end developer  
 - **Fokus sekarang:** Membuat UI yang rapi, accessible, dan performa yang cepat.  
 - **Sikap kerja:** Rajin belajar, suka kolaborasi, dan senang membuat kode yang mudah dipahami.
@@ -52,7 +52,6 @@
 ---
 
 ## 📈 GitHub Stats (opsional)
-Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub-mu untuk menampilkan statistik.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faiznoval&show_icons=true&theme=react" alt="github-stats" />
@@ -60,12 +59,10 @@ Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub-mu untuk menampilkan statist
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiznoval&layout=compact&theme=react" alt="top-langs" />
 </p>
 
-> Jika kamu tidak ingin menampilkan stats, hapus bagian ini saja.
-
 ---
 
 ## 📫 Contact
-- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`
+- GitHub: `https://github.com/faiznoval`
 - Email : `faiznovalfajri2@gmail.com`
 
 ---
